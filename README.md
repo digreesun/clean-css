@@ -1,3 +1,10 @@
+# This is a modified fork
+
+**What's changed:**\
+Add option regularComments to level-1 for keep it
+Add override DEFAULTS for semicolonAfterLastProperty
+
+
 <h1 align="center">
   <br/>
   <img src="https://cdn.rawgit.com/jakubpawlowicz/clean-css/master/logo.v2.svg" alt="clean-css logo" width="525px"/>
